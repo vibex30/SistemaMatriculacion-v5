@@ -43,7 +43,7 @@ Listado de asignaturas (Nombre, Modalidad)
 Botón o menú contextual para anular la matrícula (Si no ha sido ya anulada)
 NOTA. Como mínimo, en el listado de alumnos, ciclos formativos y asignaturas, deberás implementar la funcionalidad de buscar y ordenar alfabéticamente (orden ascendente y descendente) por el nombre.
 
-![Diagrama de clases](sistemaMatriculacion.png)
+![Diagrama de clases](SistemaMatriculacion.png)
 
 
 Por tanto, tu tarea va a consistir en usando como referencia el diagrama de clases proporcionado completar los apartados indicados a continuación:
