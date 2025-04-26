@@ -43,6 +43,9 @@ Listado de asignaturas (Nombre, Modalidad)
 Botón o menú contextual para anular la matrícula (Si no ha sido ya anulada)
 NOTA. Como mínimo, en el listado de alumnos, ciclos formativos y asignaturas, deberás implementar la funcionalidad de buscar y ordenar alfabéticamente (orden ascendente y descendente) por el nombre.
 
+![Diagrama de clases](sistemaMatriculacion.png)
+
+
 Por tanto, tu tarea va a consistir en usando como referencia el diagrama de clases proporcionado completar los apartados indicados a continuación:
 
 
@@ -87,7 +90,7 @@ Realiza el commit correspondiente.
 Crea el Enum FactoriaVista (TEXTO o GRAFICA) de manera similar a como se ha implementado la FactoriaFuenteDatos en la tarea anterior. En este caso la factoría será usada para que pueda elegirse entre la vista textual o la vista gráfica. Realiza el commit correspondiente.
 
 La estructura final de paquetes debe mostrar un esquema tal y como se muestra a continuación:
-
+![Estructura de paquetes](3EstructuraFinalPaquetes.png)
 Esquema de paquetes
 
 Realiza la gestión de alumnos tal y como se indica anteriormente. Realiza un commit.
