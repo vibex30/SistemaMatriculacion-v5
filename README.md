@@ -1,6 +1,6 @@
 # SistemaMatriculacion-v5
 # Profesor: Andrés Rubio del Río
-# Alumno: 
+# Alumno: Virginia María Berenguel Expósito
 Desde el IES Al-Ándalus nos acaban de dar unos nuevos requisitos a aplicar sobre la última versión que le mostramos y que les gustó bastante. Lo que nos piden es lo siguiente:
 
 Quieren conservar la interfaz de texto de la aplicación.
